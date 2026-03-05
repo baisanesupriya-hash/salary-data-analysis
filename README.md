@@ -10,8 +10,16 @@ Matplotlib
 Seaborn
 Jupyter Notebook
 
+## Steps Performed
+1. Loaded and explored the dataset
+2. Cleaned the data
+3. Analyzed salary distribution by department
+4. Created data visualizations
+
+
 ## Analysis
 A bar chart was used to compare average monthly salary across departments.
 
 ## Key Insight
-The Marketing department shows the highest average salary compared to other departments..
+The Marketing department has the highest average monthly salary,
+while Finance has the lowest salary among departments.
