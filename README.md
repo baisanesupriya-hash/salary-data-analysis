@@ -14,4 +14,4 @@ Jupyter Notebook
 A bar chart was used to compare average monthly salary across departments.
 
 ## Key Insight
-The Marketing department shows the highest average salary compared to other departments.
+The Marketing department shows the highest average salary compared to other departments..
